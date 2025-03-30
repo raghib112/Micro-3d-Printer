@@ -46,18 +46,21 @@ Total time: 40 hours 50 mins (Idk how accurate this is probably pretty close tho
 
 ## **Day - 2, ( 21/03/25 ) - Findings and gather printer idea from exist one**  
 ⏳ **Time Spent:** 3+ hours  
-- I browse differ
+- **Researching Existing Printers**: Studied features, components, and designs of popular 3D printers to understand how they operate.
+- **Identifying Key Features**: Noted the most important features like print volume, filament types, print quality, and ease of use.
+- **Documenting Findings**: Organized your notes on design elements, specifications, and potential improvements based on existing models.
+- **Evaluating Technology**: Investigated technologies such as auto bed leveling, filament detection, multi-color printing, etc. And sooooo on...
 
 
 ## **Day - 3, ( 22/03/25 ) - Assembly frame structure**  
 ⏳ **Time Spent:** 2+ hours  
 
 ### Description
-Designing the main skeleton of printer 
+- Started to design the main skeleton of the printer. 
 
 ### Parts Breakdown
 
-| No. | Part Name                     | Quantity |
+| No. | Part Name                   | Quantity |
 |----|------------------------------|---------|
 | 1  | 4020 L400 Profile            | 5       |
 | 2  | 4020 L400 Profile            | 2       |
@@ -65,7 +68,7 @@ Designing the main skeleton of printer
 | 4  | Cast Corner Bracket          | 2       |
 | 5  | T NUT M5 2020S               | 34      |
 | 6  | B18.3.4M - 5 x 0.8 x 5 SBHCS | 34      |
-| 7  | Filament Supporter | 1      |
+| 7  | Filament Supporter           | 1       |
 
 
 
@@ -73,7 +76,7 @@ Designing the main skeleton of printer
 ⏳ **Time Spent:** 5+ hours  
 
 ### Description
-- Designing printer z-axis
+- Designing printer Z-axis
 
 ### Parts Breakdown ( z-axis left & z-axis right)
 
@@ -99,12 +102,14 @@ Designing the main skeleton of printer
 ⏳ **Time Spent:** 4+ hours  
 
 ### Description
-- Designing printer z-axis limit switch and Y-axis 
+- Firstly i started to design the printer Z-axis and then 
+- Design the limit switch here
+- After that started to design the Y-axis
 
 ### Parts Breakdown ( Z-axis Limit Switch)
 
-| No. | Part Name                          | Quantity |
-|----|----------------------------------|---------|
+| No.| Part Name                       | Quantity|
+|----|---------------------------------|---------|
 | 1  | Micro Limit Switch              | 1       |
 | 2  | Soporte Switch Eje Z            | 1       |
 | 3  | DIN 912 M2 x 10 --- 10N         | 2       |
@@ -115,7 +120,7 @@ Designing the main skeleton of printer
 ### Parts Breakdown ( Y-axis Assembly)
 | No. | Part Name                                              | Quantity |
 |----|-----------------------------------------------------|---------|
-| 1  | stepper motor                  | 1       |
+| 1  | Stepper motor                  | 1       |
 | 3  | Perilla Nivelación de Cama Predeterminado    | 4       |
 | 4  | M3 X 3-12 mm Length, Brass Knurled Insert_8 mm | 4       |
 | 9  | Bearing, GT2 Idler Pulley, Configurable_20T W6 B3 Without T | 1 |
@@ -156,17 +161,17 @@ Designing the main skeleton of printer
 - Designing printer X-axis 
 
 ### Parts Breakdown ( X-axis Assembly)
-| No. | Part Name                                              | Quantity |
-|----|-----------------------------------------------------|---------|
-| 1  | Micro Limit Switch                                 | 1       |
+| No. | Part Name                                        | Quantity |
+|----|---------------------------------------------------|---------|
+| 1  | Micro Limit Switch                                | 1       |
 | 2  | Montura Eje X Izquierdo                           | 1       |
-| 3  | stepper Motor                           | 1       |
-| 4  | GT2 Timing Pulley 20 Tooth (2mm x 6mm ) | 1 |
+| 3  | stepper Motor                                     | 1       |
+| 4  | GT2 Timing Pulley 20 Tooth (2mm x 6mm )           | 1       |
 | 5  | 400 x Ø8 Rod                                      | 2       |
 | 6  | Montura Eje X Derecho                             | 1       |
 | 7  | Tensionador Eje X                                 | 1       |
 | 8  | GT2 Idler Pulley, Configurable                    | 1       |
-| 9  | LM8UU                                            | 4       |
+| 9  | LM8UU                                             | 4       |
 | 10 | Hexagon Nut ISO 4032 - M3 - D - N                 | 11      |
 | 11 | DIN 912 M3 x 30 --- 18N                           | 2       |
 | 12 | DIN 912 M3 x 16 --- 16N                           | 9       |
@@ -175,29 +180,32 @@ Designing the main skeleton of printer
 
 
 ## **Day - 7, ( 26/03/25 ) - Feed & Cooling Assembly**  
-⏳ **Time Spent:** 3 hours  
+⏳ **Time Spent:** 4 hours  
 
 ### Description
-- Designing printer feed.
-- use IR at the entry point of the 
+- Here i design the feed and then started to work in the main fun fact so it not miss the filament anymore
+-   Added an IR sensor at the filament entry point to detect if the filament is missing.
+-   If filament is missing during printing, the sensor triggers:
+    -   Automatic pausing of the print
+    -   An alert sound.
+    -   A popup notification to your phone.
 
-> heater system
-> warn me to my phone, whistle is also welcome, 
 
 ### Parts Breakdown ( Feed Assembly)
-| No. | Part Name                                              | Quantity |
-|----|-----------------------------------------------------|---------|
-| 1  | stepper motor                          | 1       |
-| 3  | Montura Extrusor                                   | 1       |
-| 4  | CR10 Extruder by Proma                            | 1       |
-| 5  | B18.3.4M - 3 x 0.5 x 12 SBHCS --N                 | 3       |
-| 6  | T NUT M5 2020S               | 4      |
-| 7  | B18.3.4M - 5 x 0.8 x 5 SBHCS | 4      |
+
+| No. | Part Name                                | Quantity |
+|-----|------------------------------------------|----------|
+| 1   | Stepper Motor                            | 1        |
+| 3   | Montura Extrusor                         | 1        |
+| 4   | CR10 Extruder by Proma                   | 1        |
+| 5   | B18.3.4M - 3 x 0.5 x 12 SBHCS --N        | 3        |
+| 6   | T NUT M5 2020S                           | 4        |
+| 7   | B18.3.4M - 5 x 0.8 x 5 SBHCS             | 4        |
 ---
 ### Parts Breakdown ( Cooling Fan Assembly)
 
 ### Description
-- 
+- Designing cooling fan
 
 | No. | Part Name                                        | Quantity |
 |-----|--------------------------------------------------|----------|
@@ -205,7 +213,7 @@ Designing the main skeleton of printer
 | 2   | E3D V6                                           | 1        |
 | 3   | Montura Cabezal de Impresión                     | 1        |
 | 4   | Base Cabezal de Impresión                        | 1        |
-| 5   | Turbo cooling fan for nozzle cooling       | 1        |
+| 5   | Turbo cooling fan for nozzle cooling             | 1        |
 | 6   | 5015 Fan Duct                                    | 1        |
 | 7   | Tapa lateral Cabezal de Impresión Izquierda      | 1        |
 | 8   | Retenedor Hotend Cabezal de Impresión            | 1        |
@@ -218,45 +226,49 @@ Designing the main skeleton of printer
 ## **Day - 8, ( 27/03/25 ) - Control Panel, Power and Display**  
 ⏳ **Time Spent:** 3+ hours  
 ### Description
-- Note: take power supply from ready made 3d cad model 
--
+- For this i review many power supply for printer
+- And which power supply will better for my printer. 
+- And all basis thought it may good to go
 
 ### Control Panel
 
-| ITEM NO. | PART NUMBER              | DESCRIPTION                   | QTY. |
-|----------|--------------------------|-------------------------------|------|
-| 1        | M3 X 3-12 mm              | Length, Brass Knurled Insert  | 2    |
-| 2        | Montura Placa de Control  | Control Plate Bracket          | 1    |
-| 3        | BTT E3 SKR MINI V3.0 PM r2 | Mainboard for 3D Printer  | 1    |
-| 4        | Tapa Placa de Control     | Control Plate Cover            | 1    |
-| 5        | DIN 912 M3 x 10 --- 10N   | M3 x 10 Screws                 | 2    |
-| 6        | DIN 912 M3 x 8 --- 8N     | M3 x 8 Screws                  | 4    |
+| ITEM NO. | PART NUMBER                | DESCRIPTION                   | QTY. |
+|----------|----------------------------|-------------------------------|------|
+| 1        | M3 X 3-12 mm               | Length, Brass Knurled Insert  | 2    |
+| 2        | Montura Placa de Control   | Control Plate Bracket         | 1    |
+| 3        | BTT E3 SKR MINI V3.0 PM r2 | Mainboard for 3D Printer      | 1    |
+| 4        | Tapa Placa de Control      | Control Plate Cover           | 1    |
+| 5        | DIN 912 M3 x 10 --- 10N    | M3 x 10 Screws                | 2    |
+| 6        | DIN 912 M3 x 8 --- 8N      | M3 x 8 Screws                 | 4    |
 
 ### Display
 
-| ITEM NO. | PART NUMBER              | DESCRIPTION                   | QTY. |
-|----------|--------------------------|-------------------------------|------|
-| 1        | Montura LCD               | LCD Display Bracket            | 1    |
-| 2        | Creality CR-10S LCD Board | LCD Display Board              | 1    |
-| 3        | DIN 912 M3 x 6 --- 6N     | M3 x 6 Screws                  | 4    |
-| 4  | T NUT M5 2020S               | | 4      |
-| 5  | B18.3.4M - 5 x 0.8 x 5 SBHCS | | 4      |
+| ITEM NO. | PART NUMBER                 | DESCRIPTION                | QTY. |
+|----------|-----------------------------|--------------------------|------|
+| 1        | Montura LCD                 | LCD Display Bracket      | 1    |
+| 2        | Creality CR-10S LCD Board   | LCD Display Board        | 1    |
+| 3        | DIN 912 M3 x 6 --- 6N       | M3 x 6 Screws            | 4    |
+| 4        | T NUT M5 2020S              |                          | 4    |
+| 5        | B18.3.4M - 5 x 0.8 x 5 SBHCS|                          | 4    |
 
 ### Power Supply Connecting Box
 
-| ITEM NO. | PART NUMBER              | DESCRIPTION                   | QTY. |
-|----------|--------------------------|-------------------------------|------|
-| 1        | Power supply         | Power Supply Assembly File    | 1    |
-| 2        | Montura Fuente de Alimentacion | Power Supply Bracket     | 1    |
-| 3        | DIN 7991 - M3 x 8 --- 4.8N | M3 x 8 Screws                 | 2    |
-| 4        | DIN 912 M3 x 5 --- 5N     | M3 x 5 Screws                  | 3    |
-| 5  | T NUT M5 2020S               |  | 3      |
-| 6  | B18.3.4M - 5 x 0.8 x 5 SBHCS |  | 3      |
+| ITEM NO. | PART NUMBER                        | DESCRIPTION                      | QTY. |
+|----------|------------------------------------|----------------------------------|------|
+| 1        | Power supply                       | Power Supply Assembly File       | 1    |
+| 2        | Montura Fuente de Alimentacion     | Power Supply Bracket             | 1    |
+| 3        | DIN 7991 - M3 x 8 --- 4.8N         | M3 x 8 Screws                    | 2    |
+| 4        | DIN 912 M3 x 5 --- 5N              | M3 x 5 Screws                    | 3    |
+| 5        | T NUT M5 2020S                     |                                  | 3    |
+| 6        | B18.3.4M - 5 x 0.8 x 5 SBHCS       |                                  | 3    |
 
 
 ## **Day - 9, ( 28/03/25 ) - Preparing Final BOM**  
 ⏳ **Time Spent:** 3+ hours  
-- kdfjhg
+> This is quite pain to find right goods based on budget and availability.
+> I search on Alibaba and Aliexpress
+> And got the items also but it will take a bunch of time so decided to make a purchase from local market. 
 
 
-## **Day - 10, ( 29/03/25 ) - Finishing**  
+## **Day - 10, ( 29/03/25 ) - Readme and Reviewing**  
+- I updated the readme Overall and correct some stuffs   
