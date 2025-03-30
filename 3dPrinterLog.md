@@ -4,7 +4,7 @@
 * description: "A user friendly cool stuff"
 * Made by : raghib112
 
-Total time: 40 hours 50 mins (Idk how accurate this is probably pretty close tho)
+Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho)
 
 **Micro-3D-Printer** is a compact, budget-friendly 3D printer designed to stay under $300 while maintaining high functionality. It features a filament detection system to automatically pause printing when the filament runs out, ensuring smooth and uninterrupted prints. Built for efficiency and affordability, it’s ideal for makers looking for a reliable and cost-effective 3D printing solution.
 
@@ -271,4 +271,5 @@ Total time: 40 hours 50 mins (Idk how accurate this is probably pretty close tho
 
 
 ## **Day - 10, ( 29/03/25 ) - Readme and Reviewing**  
+⏳ **Time Spent:** 1+ hours  
 - I updated the readme Overall and correct some stuffs   
