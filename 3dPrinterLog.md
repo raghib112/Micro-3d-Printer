@@ -54,6 +54,7 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 
 ## **Day - 3, ( 22/03/25 ) - Assembly frame structure**  
 ⏳ **Time Spent:** 2+ hours  
+![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed0409a60188f5c5da7db810c223653faa43ac3f_printer_frame.jpg)
 
 ### Description
 - Started to design the main skeleton of the printer. 
@@ -74,6 +75,7 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 
 ## **Day - 4, ( 23/03/25 ) - z axis assembly**  
 ⏳ **Time Spent:** 5+ hours  
+![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2666a5ebe5ff6f97031fc5bb7d67c1a0d3b6fb24_z-axis_assembly_l.jpg)
 
 ### Description
 - Designing printer Z-axis
@@ -100,6 +102,10 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 
 ## **Day - 5, ( 24/03/25 ) - Z-axis limit switch & Y-axis assembly**  
 ⏳ **Time Spent:** 4+ hours  
+- Z-axis
+	- ![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b83a77605363e3044e9f8b88a18ef1a08bf04c22_z-axis_limit_switch.jpg)
+- Y-axis
+	- ![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/58ca338517873cd2f39789f5a2744ebedb5a2786_y-axis_assembly.jpg)
 
 ### Description
 - Firstly i started to design the printer Z-axis and then 
@@ -157,11 +163,13 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 ## **Day - 6, ( 25/03/25 ) - X-axis assembly**  
 ⏳ **Time Spent:** 3+ hours  
 
+![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/13194345b20d75f0a4a0257f49f91c0568a2a118_x-axis_assembly.jpg)
+
 ### Description
 - Designing printer X-axis 
 
 ### Parts Breakdown ( X-axis Assembly)
-| No. | Part Name                                        | Quantity |
+| No. | Part Name                                        | Quantity|
 |----|---------------------------------------------------|---------|
 | 1  | Micro Limit Switch                                | 1       |
 | 2  | Montura Eje X Izquierdo                           | 1       |
@@ -181,6 +189,8 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 
 ## **Day - 7, ( 26/03/25 ) - Feed & Cooling Assembly**  
 ⏳ **Time Spent:** 4 hours  
+
+![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/03bef370048e771e5356670db30a400fc2fbd176_whatsapp_image_2025-03-31_at_4.28.09_pm.jpeg)
 
 ### Description
 - Here i design the feed and then started to work in the main fun fact so it not miss the filament anymore
@@ -225,6 +235,9 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 
 ## **Day - 8, ( 27/03/25 ) - Control Panel, Power and Display**  
 ⏳ **Time Spent:** 3+ hours  
+
+
+
 ### Description
 - For this i review many power supply for printer
 - And which power supply will better for my printer. 
@@ -243,7 +256,7 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 
 ### Display
 
-| ITEM NO. | PART NUMBER                 | DESCRIPTION                | QTY. |
+| ITEM NO. | PART NUMBER                 | DESCRIPTION              | QTY. |
 |----------|-----------------------------|--------------------------|------|
 | 1        | Montura LCD                 | LCD Display Bracket      | 1    |
 | 2        | Creality CR-10S LCD Board   | LCD Display Board        | 1    |
