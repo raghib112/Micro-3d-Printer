@@ -27,11 +27,10 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 - **Firmware:** Open-source firmware with support for advanced features.  
 - **User Interface:** Simple and intuitive display for easy operation.
 
-## BOM (Bill Of Materials)
+## BOM (Bill Of Materials) & CAD Model
 
-| Working  | on |
-|--|--|
-
+- Here is the full BOM - [*Click*](https://docs.google.com/spreadsheets/d/14x0yJbEj5C0rEIQlVVuA8SjHctHjPKWwfSs_GVw-i9w/edit?usp=sharing)
+- Cad file in [autodesk](https://autode.sk/4jd87Fv) , [OneShape](https://cad.onshape.com/documents/5846b95cc414b621cab18ca2/w/a50aaf6e13dcfebcd30e2449/e/bbd8898dc17f167fd4c9bd28?renderMode=0&uiState=67ead448af416e66f2c39672)
 
 ## **Day - 1, ( 20/03/25 ) - Planning and breakdown idea**  
 
@@ -287,6 +286,3 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 ## **Day - 10, ( 29/03/25 ) - Readme and Reviewing**  
 ⏳ **Time Spent:** 1+ hours  
 - I updated the readme Overall and correct some stuffs   
-
-
-![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8443bb01ff7319864327e89ecc1d504e885fed17_3d_printer.jpg)
