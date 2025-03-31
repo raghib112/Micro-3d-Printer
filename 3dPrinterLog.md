@@ -1,4 +1,5 @@
 
+
 # Micro-3d-Printer
 * title: "Micro-3d-Printer"
 * description: "A user friendly cool stuff"
@@ -286,3 +287,6 @@ Total time: 34 hours 30 mins (Idk how accurate this is probably pretty close tho
 ## **Day - 10, ( 29/03/25 ) - Readme and Reviewing**  
 ⏳ **Time Spent:** 1+ hours  
 - I updated the readme Overall and correct some stuffs   
+
+
+![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8443bb01ff7319864327e89ecc1d504e885fed17_3d_printer.jpg)
